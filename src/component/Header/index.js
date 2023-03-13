@@ -35,7 +35,7 @@ const Header = () => {
             </div>
             <div className="col-lg-3">
               <div className="header__right">
-                <div className="auth">
+                <div className="header__right__auth">
                   <a href="#">Sign-in/</a>
                   <a href="#">Sign-up</a>
                 </div>

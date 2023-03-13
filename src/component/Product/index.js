@@ -12,7 +12,7 @@ const products = [
 const Product = () => (
   <div className="row">
     {products.map((item, index) => (
-      <div className="col-lg-3 col-md-6">
+      <div className="col-lg-4 col-md-6">
         <div className="product__item">
           <div className="product__item__pic">
             <img className="product__item__pic" src={item} />
